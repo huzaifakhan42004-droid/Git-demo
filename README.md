@@ -1,3 +1,5 @@
 # Git-demo
-huzaifa was here
-huzaifa is again here
+print("===== Simple Calculator =====")
+print("1. Addition")
+print("2. Multiplication")
+print("3. Exit")
